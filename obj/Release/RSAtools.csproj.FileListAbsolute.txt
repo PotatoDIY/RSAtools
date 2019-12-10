@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\RSAtools\bin\Release\RSAtools.exe.config
+C:\Users\admin\source\repos\RSAtools\bin\Release\RSAtools.exe
+C:\Users\admin\source\repos\RSAtools\bin\Release\RSAtools.pdb
+C:\Users\admin\source\repos\RSAtools\obj\Release\RSAtools.Form1.resources
+C:\Users\admin\source\repos\RSAtools\obj\Release\RSAtools.Properties.Resources.resources
+C:\Users\admin\source\repos\RSAtools\obj\Release\RSAtools.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\RSAtools\obj\Release\RSAtools.exe
+C:\Users\admin\source\repos\RSAtools\obj\Release\RSAtools.pdb
